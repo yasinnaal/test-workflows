@@ -1,2 +1,3 @@
-# test-workflows
-![example workflow](https://github.com/yasinnaal/test-workflows/workflows/github-actions-demo.yml/badge.svg)
+# Demo statud badge
+
+[![GitHub Actions Demo](https://github.com/yasinnaal/test-workflows/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/yasinnaal/test-workflows/actions/workflows/github-actions-demo.yml)
